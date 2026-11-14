@@ -15,6 +15,6 @@ Much content on social media reveals people’s lifestyles through their own hig
 
 In some instances, overusing social media causes addiction and depression. The more use of social media platforms leads more access to symptoms of depression and anxiety. (Lin et al., 2016; Vannucci et al., 2017). Research shows that individuals who use more than 10 different social media platforms are more likely to have anxiety and depression symptoms than those who use two or fewer(Primack et al., 2017).<br>
 
-Overusing social media has significant effects on individuals’ time management and daily performance. Overusing social media negatively affects daily life, such as studying or leisure activities. Spending more than 4 hours using social media leads to deviating from their plan.
+As social media continues to evolve, many users endlessly scroll through their feeds without noticing how much time has passed. Overusing social media has significant effects on individuals’ time management and daily performance. Overusing social media negatively affects daily life, such as studying or leisure activities. Spending more than 4 hours using social media leads to deviating from their plan.
 ## Conclusiton
 
