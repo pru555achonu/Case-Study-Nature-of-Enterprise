@@ -6,6 +6,7 @@
 *First view point analysis:*
 
 *Second view point analysis:*
+
 Social media has evolved from personal communication into an essential aspect of people’s lives. Research shows that 4.88 billion people use social media worldwide, representing 60.6% of the global population. The most popular social media platforms include Facebook, YouTube, Instagram, and TikTok, which have at least one billion active users monthly(Kemp, 2023).<br> 
 
 Social media platforms facilitate users many opportunities such as expressing their identity, connecting with people, interacting with others, validating by blue marks or likes from followers. In addition, people can connect regardless of geographical distance or different time zones, which is crucial for social interaction (Kietzmann et al., 2011). These benefits make users enjoy using social media. Many people have become social influencers and entrepreneurs by taking advantage of these opportunities, earning income through social media platforms in ways that were not possible in the past.<br>
