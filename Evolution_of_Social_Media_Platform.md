@@ -5,7 +5,7 @@
 
 *First view point analysis:*
 
-*Second view point analysis:*
+*Societal view point analysis:*
 
 Social media has evolved from personal communication into an essential aspect of people’s lives. Research shows that 4.88 billion people use social media worldwide, representing 60.6% of the global population. The most popular social media platforms include Facebook, YouTube, Instagram, and TikTok, which have at least one billion active users monthly(Kemp, 2023).<br> 
 
