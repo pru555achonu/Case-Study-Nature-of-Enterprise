@@ -71,7 +71,7 @@ the business aspect of the evolution of social media, to see how companies were 
 
 A way that major brands were able to bring more attention to their business was through advertisements on social media platforms. Advertisements on social
 media was introduced as early as 2006 with Facebook, after that was Twitter enabling ads in 2010, then other sites such as Snapchat, YouTube and more adding
-ads to their platforms.(Maryville University, 2020). Companies saw this as an opportunity to make their brands more popular, so they started to use social media as a way to grow. So, they
+ads to their platforms. (Maryville University, 2020). Companies saw this as an opportunity to make their brands more popular, so they started to use social media as a way to grow. So, they
 started putting ads on these sites either in picture or video form to inform people about their products or recruit them for their company. Even making
 some of the ads entertaining to some degree to entice people. Other social media sites even created accounts on their competitors' websites to advertise and talk about upcoming updates to their own platforms.
 
