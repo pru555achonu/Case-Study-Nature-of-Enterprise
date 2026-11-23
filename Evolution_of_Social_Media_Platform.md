@@ -62,7 +62,7 @@ Mark Zuckerberg founded Facebook and turned social media networking into a globa
 Kevin Systrom and Mike Krieger founded Instagram, and that was the beginning of mobile photos and visual communication.
 Zhang Yiming, who founded ByteDance, was the one who created TikTok, and he created the kickstart of short videos.
 
-## First view point analysis:
+## Business view point analysis:
 
 With the evolution of social media, it came with impacts on how companies run their businesses and how society functions around the usage of social media. 
 For businesses, social media brought new ways to advertise and sell products for their customers to buy. On the societal aspect, it was able to allow 
