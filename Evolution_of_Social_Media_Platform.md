@@ -3,6 +3,43 @@
 
 ## Introduction
 
+
+##Historical Development:
+
+*Timeline and Milestones:*
+2003 - MySpace launches:
+MySpace was launched in August 2003 by Tom Anderson and Chris Dewolfe. It quickly became one of the most popular social networking sites in the world.
+Users could create their own profiles, add music they liked, and best of all, connect with their friends.
+It was a massive force in the music industry, and it was getting massive numbers of independent artists out there.
+It was the number one social networking site in the entire world from 2005 to 2008.
+
+2004 - Facebook changes social networking:
+Facebook was launched on the 4th of February in 2004, by Mark Zuckerberg while he was a student at Harvard University.
+It was initially a college student-only site before expanding to the public.
+It was far cleaner than MySpace, with real names and a much easier way of networking.
+By 2008, it had surpassed MySpace in terms of popularity and had become the number one social networking site in the world.
+
+2010 - Instagram introduces visual sharing:
+Instagram was launced on october 2010 by Kevin Systrom and Mike Krieger.
+It was initially a photo-sharing app for phones, making social media extremely visual.
+filters, hashtags, stories, and reels were all key features that helped become one of the most used platforms with the younger generation and with businesses.
+Its success was a clear indicator of the relevance of a smartphone and visual content in today's society.
+
+2016- TikTok revolutionises short videos:
+TikTok was launched internationally in 2019 by a Chinese company called ByteDance.
+It became a well known platform for short videos, and it allowed people to go viral quickly.
+It was very much a platform of content discovery rather than one of friends and followers.
+The power of the algorithm meant that anyone could go viral, and it completely changed the way content was created and consumed online.
+Content creators were now catching on to making money from TikTok, the algorithm proved that real money could be made with the amount of views being generated from one short video.
+
+Key Figures:
+
+Several figures played major roles in the development of social media:
+
+Tom Anderson and Chris DeWolfe founded MySpace, which started the social media revolution.
+Mark Zuckerberg founded Facebook and turned social media networking into a global phenomenon.
+Kevin Systrom and Mike Krieger founded Instagram, and that was the beginning of mobile photos and visual communication.
+Zhang Yiming, who founded ByteDance, was the one who created TikTok, and he created the kickstart of short videos.
 *First view point analysis:*
 
 With the evolution of social media, it came with impacts on how companies run their businesses and how society functions around the usage of social media. 
