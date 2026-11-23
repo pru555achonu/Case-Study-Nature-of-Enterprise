@@ -73,8 +73,7 @@ A way that major brands were able to bring more attention to their business was 
 media was introduced as early as 2006 with Facebook, after that was Twitter enabling ads in 2010, then other sites such as Snapchat, YouTube and more adding 
 ads to their platforms. Companies saw this as an opportunity to make their brands more popular, so they started to use social media as a way to grow. So, they 
 started putting ads on these sites either in picture or video form to inform people about their products or recruit them for their company. Even making 
-some of the ads entertaining to some degree to entice people. Other social media sites even created accounts on their competitors' websites to advertise  
-and talk about upcoming updates to their own platforms.
+some of the ads entertaining to some degree to entice people. Other social media sites even created accounts on their competitors' websites to advertise and talk about upcoming updates to their own platforms.
 
 According to Yoesoep Edhie Rachmad on his book 'Like, Share, Sell: Social Media for the Aspiring Business Owner,' he explains how the rise of social media has 
 given businesses the ability to look at real time data of their customers to get a good idea of topics such as "engagement rates, follower demographics, and 
