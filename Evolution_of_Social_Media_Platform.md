@@ -61,7 +61,8 @@ Tom Anderson and Chris DeWolfe founded MySpace, which started the social media r
 Mark Zuckerberg founded Facebook and turned social media networking into a global phenomenon.
 Kevin Systrom and Mike Krieger founded Instagram, and that was the beginning of mobile photos and visual communication.
 Zhang Yiming, who founded ByteDance, was the one who created TikTok, and he created the kickstart of short videos.
-*First view point analysis:*
+
+## First view point analysis:
 
 With the evolution of social media, it came with impacts on how companies run their businesses and how society functions around the usage of social media. 
 For businesses, social media brought new ways to advertise and sell products for their customers to buy. On the societal aspect, it was able to allow 
@@ -95,6 +96,8 @@ The impact of the evolution of social media has had a massive on the business si
 that have been used by businesses to help gain their companies more popularity and success to their brand. Throughout the years, we have seen these companies 
 reach the peak of their popularity, thanks to social media, with some businesses gaining more employees, more eyes on their products, and becoming some of 
 the biggest names in their fields such as Duolingo and Ryanair.
+
+
 
 ## Second view point analysis:
 
