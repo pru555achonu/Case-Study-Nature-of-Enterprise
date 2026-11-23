@@ -13,19 +13,19 @@ Users could create their own profiles, add music they liked, and best of all, co
 It was a massive force in the music industry, and it was getting massive numbers of independent artists out there.
 It was the number one social networking site in the entire world from 2005 to 2008.
 
-2004 - Facebook changes social networking:
+2004 - Facebook changes social networking: <br>
 Facebook was launched on the 4th of February in 2004, by Mark Zuckerberg while he was a student at Harvard University.
 It was initially a college student-only site before expanding to the public.
 It was far cleaner than MySpace, with real names and a much easier way of networking.
 By 2008, it had surpassed MySpace in terms of popularity and had become the number one social networking site in the world.
 
-2010 - Instagram introduces visual sharing:
+*2010 - Instagram introduces visual sharing:* <br>
 Instagram was launced on october 2010 by Kevin Systrom and Mike Krieger.
 It was initially a photo-sharing app for phones, making social media extremely visual.
 filters, hashtags, stories, and reels were all key features that helped become one of the most used platforms with the younger generation and with businesses.
 Its success was a clear indicator of the relevance of a smartphone and visual content in today's society.
 
-2016- TikTok revolutionises short videos:
+2016- TikTok revolutionises short videos: <br>
 TikTok was launched internationally in 2019 by a Chinese company called ByteDance.
 It became a well known platform for short videos, and it allowed people to go viral quickly.
 It was very much a platform of content discovery rather than one of friends and followers.
@@ -34,7 +34,7 @@ Content creators were now catching on to making money from TikTok, the algorithm
 
 *Key Figures:*<br>
 
-Several figures played major roles in the development of social media:
+Several figures played major roles in the development of social media: <br>
 
 Tom Anderson and Chris DeWolfe founded MySpace, which started the social media revolution.
 Mark Zuckerberg founded Facebook and turned social media networking into a global phenomenon.
