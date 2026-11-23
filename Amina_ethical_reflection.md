@@ -1,4 +1,4 @@
-#Ethical Reflection & Improvements
+# Ethical Reflection & Improvements
 
 Social media has developed significantly from MySpace to Facebook, Instagram, and TikTok. These platfroms have made communication easier and
 allow people to share information, photos and videos worldwide.
