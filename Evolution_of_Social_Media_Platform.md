@@ -4,9 +4,9 @@
 ## Introduction
 
 
-##Historical Development:
+## Historical Development:
 
-*Timeline and Milestones:*
+*Timeline and Milestones:* <br>
 2003 - MySpace launches:
 MySpace was launched in August 2003 by Tom Anderson and Chris Dewolfe. It quickly became one of the most popular social networking sites in the world.
 Users could create their own profiles, add music they liked, and best of all, connect with their friends.
@@ -32,7 +32,7 @@ It was very much a platform of content discovery rather than one of friends and 
 The power of the algorithm meant that anyone could go viral, and it completely changed the way content was created and consumed online.
 Content creators were now catching on to making money from TikTok, the algorithm proved that real money could be made with the amount of views being generated from one short video.
 
-Key Figures:
+*Key Figures:*<br>
 
 Several figures played major roles in the development of social media:
 
