@@ -19,7 +19,7 @@ It was initially a college student-only site before expanding to the public.
 It was far cleaner than MySpace, with real names and a much easier way of networking.
 By 2008, it had surpassed MySpace in terms of popularity and had become the number one social networking site in the world.
 
-*2010 - Instagram introduces visual sharing:* <br>
+2010 - Instagram introduces visual sharing: <br>
 Instagram was launced on october 2010 by Kevin Systrom and Mike Krieger.
 It was initially a photo-sharing app for phones, making social media extremely visual.
 filters, hashtags, stories, and reels were all key features that helped become one of the most used platforms with the younger generation and with businesses.
