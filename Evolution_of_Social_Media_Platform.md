@@ -2,9 +2,30 @@
 (MySpace to Facebook/Instagram/Tiktok)
 
 ## Introduction
+Social media is something that connects us all, something most of us can't live without.
+It is a tool in our society that is relatively new however it is growing rapidly.
+To start what is social media? Why is it something that is so important to us in our society?
+
+Social media would be defined as a space where users are able interact and self present in whatever way they would like, 
+from present time or asynchronously through channels on the internet ,
+presenting to either large or narrow groups of individuals/audiences who find importance or interest from the content generated 
+and a level of perceived interaction with others through the internet. (Carr and Hayes, 2015) 
+
+Examples such as FaceBook, MySpace, Whatsapp, Snapchat and many more are social media platforms which mainly rely
+on methods in which individuals can communicate with each other. From texts to call/video calls, voice messages. These social media 
+platforms can also focus on how an individual can communicate with a wider audience in methods like Photo or video posts on Facebook and Instagram, Stories
+like on Snapchat, Whatsapp status and Instagram stories. 
+It was revealed through filling with SEC that Facebook has 845 million people using their platform and are also interconnected by 100 billion friendships.
+Daily, Users on Facebook contribute 2.7 billion likes or comments, there are also daily photo amounting to 250 million. (Hoffman and Novak, 2012) 
+This shows how many people actively use a form of social media, it also re-enforces through the amount of friendships shown just how much social media connects us
+as a society.
+
+This is something that has changed the way humans communicate with each other both in business and societal ways.
+In this case study we will be exploring the societal and business viewpoint in relation to the 'Evolution of social media' and their impacts and
+we will also be discussing the ethical reflections and the improvements in social media as of recently.
 
 
-## Historical Development:
+## Historical Development
 
 *Timeline and Milestones:* <br>
 2003 - MySpace launches:
@@ -75,7 +96,7 @@ that have been used by businesses to help gain their companies more popularity a
 reach the peak of their popularity, thanks to social media, with some businesses gaining more employees, more eyes on their products, and becoming some of 
 the biggest names in their fields such as Duolingo and Ryanair.
 
-*Second view point analysis:*
+## Second view point analysis:
 
 Social media has evolved from personal communication into an essential aspect of people’s lives. Research shows that 4.88 billion people use social media worldwide, representing 60.6% of the global population. The most popular social media platforms include Facebook, YouTube, Instagram, and TikTok, which have at least one billion active users monthly(Kemp, 2023).<br> 
 
@@ -113,7 +134,7 @@ Protecting users requires action from governments, companies, and users themselv
 Transparency and oversight.
 Platforms should explain how recommendation systems work and give vetted researchers access to data. Faster responses to harassment and clear appeals processes would also build trust.
 
-Conclusion
+## Conclusion
 Social media has transformed communication, but its development has been shaped by commercial incentives that often conflict with user well-being. Recent evidence suggests platforms are neither simply good nor bad. Their impact depends on design, regulation, and patterns of use. Enforceable laws, ethically designed products, independent oversight, and education can preserve the benefits of social media while reducing risks to privacy, safety, and mental health.
 
 ## References
