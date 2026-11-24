@@ -158,30 +158,43 @@ Even though technological advancements increase opportunities for users to conne
 ## References
 Agyapong-Opoku, N., Agyapong-Opoku, F., & Greenshaw, A. J. (2025). Effects of social media use on youth and adolescent mental health: A scoping review of reviews. Behavioral Sciences, 15(5), 574. https://doi.org/10.3390/bs15050574 
 
+Allantgroup.com. (2025). The past, present and future of social media in business – allant group. [online] Available at: https://allantgroup.com/blog/articles/the-past-present-and-future-of-social-media-in-business [Accessed 30 Oct. 2026].
+
+Campbell, K. (2023). A brief history of social media: ARPANET TO TikTok. [online] Reputation X. Available at: https://www.reputationx.com/blog/brief-history-social-media [Accessed 1 Nov. 2026].
+
+Carr, C.T. and Hayes, R.A. (2015). Social Media: Defining, Developing, and Divining. Atlantic Journal of Communication, 23(1), pp.46–65. doi:10.1080/15456870.2015.972282.
+
 Cabezas-Klinger, H., Fenandez-Daza, F. F., & Mina-Paz, Y. (2025). Associations between social media use and mental disorders in adolescents and young adults: A systematic review and meta-analysis of recent evidence. Behavioral Sciences, 15(11), 1450. https://doi.org/10.3390/bs15111450 
 
 eSafety Commissioner. (2026). Social media age restrictions. Australian Government. https://www.esafety.gov.au/social-media-age-restrictions 
 
 European Commission. (2025, December 5). Commission fines X €120 million under the Digital Services Act[Press release]. https://digital-strategy.ec.europa.eu/en/news/commission-fines-x-eu120-million-under-digital-services-act
 
-Josh's references:
+Gregersen, E. (2025). Social media. In: Encyclopædia Britannica. [online] Available at: https://www.britannica.com/topic/social-media [Accessed 25 Oct. 2026].
+
+Katsitadze, N., Kharadze, N. and Pirtskhalaishvili, D. (2025). The impact of social media on students’ effective time management. Baltic Journal of Economic Studies, [online] 11(1), pp.200–210. doi:10.30525/2256-0742/2025-11-1-200-210.
+
+Kemp, S. (2023). Digital 2023: Global overview report. [online] DataReportal. Available at: https://datareportal.com/reports/digital-2023-global-overview-report [Accessed 1 Nov. 2026].
+
+Lavanya, E. and N, D.S. (2020). Review on evolution of social media and entrepreneurial growth. International Journal of Management (IJM), [online] 11(12), pp.4558–4567. Available at: https://iaeme.in/MasterAdmin/Journal_uploads/IJM/VOLUME_11_ISSUE_12/IJM_11_12_444.pdf [Accessed 25 Oct. 2026].
+
+Lin, L., Sidani, J.E., Shensa, A., Radovic, A., Miller, E., Colditz, J.B., Hoffman, B.L., Giles, L.M. and Primack, B.A. (2016). Association between social media use and depression among US young adults. Depression and Anxiety, [online] 33(4), pp.323–331. doi:10.1002/da.22466.
+
  Maryville University (2020) The Evolution of Social Media: How Did It Begin, and Where Could It Go Next? Available at: https://online.maryville.edu/blog/evolution-social-media/#history (Accessed: 14/10/2026).
  
-Allant Group (2018) The Past, Present and Future of Social Media in Business. Available at: https://allantgroup.com/blog/articles/the-past-present-and-future-of-social-media-in-business (Accessed: 30/10/2026).
+Nadkarni, A. and Hofmann, S.G. (2012). Why do people use Facebook? Personality and Individual Differences, 52(3), pp.243–249. doi:10.1016/j.paid.2011.11.007.
+
+Primack, B.A., Shensa, A., Siandi, J., Whaite, E., Lin, L., Rosen, D., Colditz, J., Radovic, A. and Miller, E. (2017). Social media use and perceived social isolation among young adults in the U.S. American Journal of Preventive Medicine, [online] 53(1), pp.1–8. doi:10.1016/j.amepre.2017.01.010.
 
 Rachmad, Y.E., 2025. Like, Share, Sell: Social Media for the Aspiring Business Owner. Jeddah Red Sea Kitab Nashr.
 
-## References
+Samur, A. and Christison, C. (2023). The history of social media: 29+ Key moments. [online] Hootsuite Social Media Management. Available at: https://blog.hootsuite.com/history-social-media/ [Accessed 1 Nov. 2026].
 
-Kemp, S. (2023, January 26). Digital 2023: Global Overview Report. DataReportal – Global Digital Insights. https://datareportal.com/reports/digital-2023-global-overview-report<br>
+Shaping Europe’s digital future. (2025). Commission fines X €120 million under the digital services act. [online] Available at: https://digital-strategy.ec.europa.eu/en/news/commission-fines-x-eu120-million-under-digital-services-act [Accessed 15 Nov. 2026].
 
-Katsitadze, N., Kharadze, N., & Pirtskhalaishvili, D. (2025). THE IMPACT OF SOCIAL MEDIA ON STUDENTS’ EFFECTIVE TIME MANAGEMENT. Baltic Journal of Economic Studies, 11(1), 200-210. https://doi.org/10.30525/2256-0742/2025-11-1-200-210<br>
+Stsiampkouskaya, K., Joinson, A., Piwek, L. and Ahlbom, C.-P. (2021). Emotional responses to likes and comments regulate posting frequency and content change behaviour on social media: An experimental study and mediation model. Computers in Human Behavior, 124, p.106940. doi:10.1016/j.chb.2021.106940.
 
-Lin, L. Y., Sidani, J. E., Shensa, A., Radovic, A., Miller, E., Colditz, J. B., Hoffman, B. L., Giles, L. M., & Primack, B. A. (2016). Association between social media use and depression among U.S. young adults. Depression and Anxiety, 33(4), 323–331. https://doi.org/10.1002/da.22466<br>
+Zuckerberg, M. (2003). A history of social media. [online] IT & AI History. Available at: https://history.itlibra.com/en/timelines/social-media [Accessed 3 Nov. 2026].
 
-Nadkarni, A., & Hofmann, S. G. (2012). Why do people use Facebook? Personality and Individual Differences, 52(3), 243–249. https://doi.org/10.1016/j.paid.2011.11.007<br> 
 
-Primack, B. A., Shensa, A., Sidani, J. E., Whaite, E. O., Lin, L. Y., Rosen, D., Colditz, J. B., Radovic, A., & Miller, E. (2017). <br>
-
-Stsiampkouskaya, K., Joinson, A., Piwek, L., & Ahlbom, C.-P. (2021). Emotional responses to likes and comments regulate posting frequency and content change behaviour on social media: An experimental study and mediation model. Computers in Human Behavior, 124, 106940. https://doi.org/10.1016/j.chb.2021.106940
 
