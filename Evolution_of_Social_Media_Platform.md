@@ -141,7 +141,7 @@ the years with additional features such as the evolution of the user interface f
 developed into a place where modern social media platforms have incorporated creating content and commercial opportunities for users.  This timeline helped to 
 understand what was occurring in each period and all the different contribution that had been made to shape how social media is experienced currently, while also 
 showcasing how rapidly social media has evolved in the little time it had been mainstream for. Due to how rapidly social media has grown social media businesses have
-grown and adapted in an increasingly competitive market through using apps which provides data to help social media companies when it comes to manufacturing new products.
+had to grown and adapted in an increasingly competitive market through using apps which provides data to help social media companies when it comes to manufacturing new products.
 
 This analysis through a business point of view highlighted the pressure that social media businesses are under, importance of  understanding and predicting customer sentiment. 
 While social media companies have found a solution to predicting what will appeal to their users, due to how rapid social media is evolving, it is likely that other apps may be 
