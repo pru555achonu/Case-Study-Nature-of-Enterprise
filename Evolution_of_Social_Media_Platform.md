@@ -156,10 +156,19 @@ Even though technological advancements increase opportunities to connect and mak
 
 
 ## References
-Agyapong-Opoku, N., Agyapong-Opoku, F., & Greenshaw, A. J. (2025). Effects of social media use on youth and adolescent mental health: A scoping review of reviews. Behavioral Sciences, 15(5), 574. https://doi.org/10.3390/bs15050574 Cabezas-Klinger, H., Fenandez-Daza, F. F., & Mina-Paz, Y. (2025). Associations between social media use and mental disorders in adolescents and young adults: A systematic review and meta-analysis of recent evidence. Behavioral Sciences, 15(11), 1450. https://doi.org/10.3390/bs15111450 eSafety Commissioner. (2026). Social media age restrictions. Australian Government. https://www.esafety.gov.au/social-media-age-restrictions European Commission. (2025, December 5). Commission fines X €120 million under the Digital Services Act [Press release]. https://digital-strategy.ec.europa.eu/en/news/commission-fines-x-eu120-million-under-digital-services-act## Conclusiton
+Agyapong-Opoku, N., Agyapong-Opoku, F., & Greenshaw, A. J. (2025). Effects of social media use on youth and adolescent mental health: A scoping review of reviews. Behavioral Sciences, 15(5), 574. https://doi.org/10.3390/bs15050574 
+
+Cabezas-Klinger, H., Fenandez-Daza, F. F., & Mina-Paz, Y. (2025). Associations between social media use and mental disorders in adolescents and young adults: A systematic review and meta-analysis of recent evidence. Behavioral Sciences, 15(11), 1450. https://doi.org/10.3390/bs15111450 
+
+eSafety Commissioner. (2026). Social media age restrictions. Australian Government. https://www.esafety.gov.au/social-media-age-restrictions 
+
+European Commission. (2025, December 5). Commission fines X €120 million under the Digital Services Act[Press release]. https://digital-strategy.ec.europa.eu/en/news/commission-fines-x-eu120-million-under-digital-services-act
+
 Josh's references:
  Maryville University (2020) The Evolution of Social Media: How Did It Begin, and Where Could It Go Next? Available at: https://online.maryville.edu/blog/evolution-social-media/#history (Accessed: 14/10/2026).
+ 
 Allant Group (2018) The Past, Present and Future of Social Media in Business. Available at: https://allantgroup.com/blog/articles/the-past-present-and-future-of-social-media-in-business (Accessed: 30/10/2026).
+
 Rachmad, Y.E., 2025. Like, Share, Sell: Social Media for the Aspiring Business Owner. Jeddah Red Sea Kitab Nashr.
 
 ## References
